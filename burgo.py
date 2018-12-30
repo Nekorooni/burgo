@@ -1,2 +1,2 @@
-def print_burgo(count):
+def print_burger(count):
     print('??'*count)
